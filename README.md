@@ -1,1 +1,1 @@
-# trex-extremo
+# Juegos-compatibles-con-dispositivos
